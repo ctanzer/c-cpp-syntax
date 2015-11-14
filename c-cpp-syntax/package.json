@@ -1,0 +1,16 @@
+{
+  "name": "c-cpp-syntax",
+  "theme": "syntax",
+  "version": "0.0",
+  "description": "A dark syntax theme",
+  "keywords": [
+    "dark",
+    "c-cpp-syntax",
+    "syntax"
+  ],
+  "repository": "https://github.com/atom/c-cpp-syntax",
+  "license": "CT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
